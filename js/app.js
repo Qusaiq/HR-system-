@@ -17,7 +17,7 @@ function tableHeader() {
   let thSalary = document.createElement('th');
 
   thName.textContent = 'Name';
-  thEmail.textConten = 'mmmmm';
+  thEmail.textConten = 'Email';
   thDep.textContent = 'Department';
   thSalary.textContent = 'Salary';
 
